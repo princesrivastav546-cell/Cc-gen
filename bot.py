@@ -6,7 +6,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
 # Your bot token
-TOKEN = "8192299530:AAFQgCa4Ly0enkCFRzlU-l3Yevo9NVdR7A8"
+TOKEN = "8291407561:AAHjfxzVoCvO81RBqJsvZ6hL2UKjv24NqFs"
 
 # Initialize SQLite database
 def init_db():
